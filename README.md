@@ -100,11 +100,11 @@
 ## 📫 Cómo contactarme
 
 <p align="center">
-  <a href="mailto:tomfmp2.dev@gmail.com">
+  <a href="mailto:tom.pradamd@gmail.com">
     <img src="https://img.shields.io/badge/Email-tomfmp2.dev%40gmail.com-0d6efd?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <!-- Ajusta o elimina los links que no uses -->
-  <a href="https://www.linkedin.com/in/tu-perfil-linkedin">
+  <a href="https://www.linkedin.com/in/tomasmedinadev/">
     <img src="https://img.shields.io/badge/LinkedIn-Tomás%20Medina%20Prada-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/tuUsuarioTelegram">
