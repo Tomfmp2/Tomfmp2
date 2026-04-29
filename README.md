@@ -50,15 +50,45 @@
 
 ## 📂 Proyectos destacados
 
-<!-- Ajusta los nombres y enlaces a tus repos reales -->
-| Proyecto | Stack principal | Descripción |
-|---------|-----------------|------------|
-| **API-Store-Backend** | .NET, C#, SQL | API REST para gestión de productos, usuarios y pedidos, con arquitectura en capas y buenas prácticas. |
-| **TaskManager** | ASP.NET Core, EF Core | Sistema para gestionar tareas y proyectos con autenticación, roles y panel de administración. |
-| **GameStatsTracker** | .NET, PostgreSQL | Servicio backend para almacenar y consultar estadísticas de partidas de videojuegos competitivos. |
-| **Automation-Hub** | .NET, Docker | Microservicios para automatizar procesos y notificaciones entre distintas aplicaciones. |
+### 🕹️ Simulador Liga BetPlay — Console App
+Simulador de la Liga BetPlay desarrollado en C# (.NET 8) como aplicación de consola, que gestiona equipos, calendario "todos contra todos", simulación de partidos y actualización de tabla de posiciones en tiempo real.  
+**Stack:** .NET 8 · C# · Console  
+**Repo:** [Ver proyecto](https://github.com/melokaso1/ligaBetplay_C-)
 
-> Puedes ver más proyectos y detalles en mi [portafolio web](https://portafolio-alpha-nine-96.vercel.app/#inicio).
+---
+
+### 🗃️ TechDistrib ERP — Base de Datos Comercial
+Modelo de base de datos en MySQL para una empresa distribuidora de tecnología, con reglas de negocio, stored procedures, vistas, triggers y reportes gerenciales.  
+**Stack:** MySQL · SQL  
+**Repo:** [Ver proyecto](https://github.com/Tomfmp2/MySQL-2-final-project)
+
+---
+
+### 🎓 LMS Educational System
+Sistema LMS para gestión de cursos, estudiantes y docentes, orientado a centralizar contenidos y seguimiento académico.  
+**Stack:** SQL · Modelado de datos  
+**Repo:** [Ver proyecto](https://github.com/Tomfmp2/LMS-educational-system)
+
+---
+
+### 💻 Sistema Bancario en Consola — Terminal CLI
+Aplicación de consola en Python que simula operaciones bancarias básicas como creación de cuentas, depósitos y retiros.  
+**Stack:** Python · CLI  
+**Repo:** [Ver proyecto](https://github.com/Tomfmp2/banking-system-Python)
+
+---
+
+### 🌐 Portafolio Web Personal — Web App
+Sitio de portafolio desarrollado con Next.js y TypeScript, orientado a presentar proyectos, skills y experiencia de forma profesional.  
+**Stack:** Next.js · React · TypeScript  
+**Demo:** [Ver portafolio](https://portafolio-alpha-nine-96.vercel.app/#proyectos)
+
+---
+
+### ✈️ Sistema de Gestión de Tiquetes Aéreos — Console App
+Sistema de consola en C# que gestiona reservas de vuelos, pasajeros, rutas y un programa de fidelización con acumulación y canje de millas.  
+**Stack:** C# · .NET · Console  
+**Repo:** [Ver proyecto](https://github.com/Tomfmp2/Sistema-de-Gesti-n-de-Tiquetes-A-reos)
 
 ---
 
