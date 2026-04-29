@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./black_hole_banner.png" alt="Banner Minimalista Agujero Negro" width="100%" height="300" style="object-fit: cover; object-position: center; border-radius: 15px;" />
+  <img src="./black_hole_banner.png" alt="Banner Minimalista Agujero Negro" width="100%" />
 </div>
 
 <h1 align="center">
