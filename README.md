@@ -5,9 +5,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FFD5&center=true&vCenter=true&width=550&lines=%C2%A1Hola!+Soy+Tom%C3%A1s+Medina+%F0%9F%94%A5;Desarrollador+Backend+;.NET+%26+Next.js+Enthusiast;Resolviendo+Problemas" alt="Typing SVG" />
 </h1>
-
-<h3 align="center">Namaste 🙏 Soy Tomás Felipe Medina</h3>
-
 ---
 
 <div align="center">
